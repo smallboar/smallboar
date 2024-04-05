@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm a Junior studying CS at the University of Washington! 
+Hey, I'm a Junior studying Computer Science at the University of Washington! 
 
 
 ## 🌐 Socials:
