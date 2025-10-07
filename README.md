@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm a Junior studying Computer Science at the University of Washington! Check out some of my pinned projects below!
+Hey, I'm a senior studying Computer Science at the University of Washington! Check out some of my pinned projects below!
 
 
 ## 🌐 Socials:
